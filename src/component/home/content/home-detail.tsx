@@ -13,7 +13,7 @@ export default class Detail_Class extends Component{
             
                 <div className="home-content">
                 <Account
-                user_name = "Thắm Phạm"
+                user_name = "Đào Nguyễn Duy Tấn"
                 />
                 <div className="content-address">
                 <TitleBack title_back_name = "Quản lý học phí"/>

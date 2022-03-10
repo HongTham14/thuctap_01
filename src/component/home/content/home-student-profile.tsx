@@ -10,7 +10,7 @@ function Student_profile () {
     return(
         <div className="home-content">
             <Account 
-            user_name = "Thắm Phạm"
+            user_name = "Đào Nguyễn Duy Tấn"
             />
             <div className="content_address">
                 <TitleBack title_back_name = "Quản lý học phí"/>

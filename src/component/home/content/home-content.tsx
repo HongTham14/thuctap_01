@@ -8,7 +8,7 @@ export default class Content extends Component{
         return(
             <div className="home-content">
                 <Account
-                user_name = "Thắm Phạm"
+                user_name = "Đào Nguyễn Duy Tấn"
                 />
                 <Title_home />
                 <Table_list_class />
